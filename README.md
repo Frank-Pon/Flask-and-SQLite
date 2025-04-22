@@ -19,7 +19,7 @@
 ![畫面截圖](screenshot/orders.png)
 ![畫面截圖](screenshot/customers.png)
 ![畫面截圖](screenshot/products.png)
-    └─以上是這次使用到的資料表內容
+    以上是這次使用到的資料表內容
 
 功能使用說明:
 
