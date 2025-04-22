@@ -32,12 +32,14 @@ GET可以使用連結加上對應的參數就能夠顯示對應的資料,POST、
 ✔️python 3.12 ✔️Flask ✔️Requests ✔️jsonify ✔️SQLite3
 
 專案結構:
-
+```
 interview_project
         ├─ app.py (主程式)
         ├─ README.md (程式簡介)
         ├─ database.db (資料庫檔案)
         └─ screenshot (畫面截圖 for README)
+```
+
 使用方法:
 
 ( Git Clone用網址 https://github.com/Frank-Pon/Flask-and-SQLite.git ) clone之後 -> 安裝所需套件 ( Flask、Requests ) -> 在終端機輸入 python app.py -> 打開網頁輸入 127.0.0.1:5000 -> 開始使用 ✅
