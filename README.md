@@ -17,7 +17,9 @@
 刪除 ( DELETE ) - http://127.0.0.1:5000/del/(id) - 選擇要刪除哪一個ID
 
 ![畫面截圖](screenshot/orders.png)
+
 ![畫面截圖](screenshot/customers.png)
+
 ![畫面截圖](screenshot/products.png)
     以上是這次使用到的資料表內容
 
