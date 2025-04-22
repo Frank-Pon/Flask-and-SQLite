@@ -16,9 +16,9 @@
 
 刪除 ( DELETE ) - http://127.0.0.1:5000/del/(id) - 選擇要刪除哪一個ID
 
-[!畫面截圖](screenshot/orders.png)
-[!畫面截圖](screenshot/customers.png)
-[!畫面截圖](screenshot/products.png)
+![畫面截圖](screenshot/orders.png)
+![畫面截圖](screenshot/customers.png)
+![畫面截圖](screenshot/products.png)
     └─以上是這次使用到的資料表內容
 
 功能使用說明:
@@ -60,8 +60,8 @@ interview_project
 
 相信之後的挑戰我也能一一擊破!
 
-[!畫面截圖](screenshot/search.png)
-[!畫面截圖](screenshot/post.png)
-[!畫面截圖](screenshot/put.png)
-[!畫面截圖](screenshot/patch.png)
-[!畫面截圖](screenshot/delete.png)
+![畫面截圖](screenshot/search.png)
+![畫面截圖](screenshot/post.png)
+![畫面截圖](screenshot/put.png)
+![畫面截圖](screenshot/patch.png)
+![畫面截圖](screenshot/delete.png)
